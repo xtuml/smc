@@ -1,1 +1,5 @@
+repository: xtuml/smc
+baseurl: '/smc'
 theme: jekyll-theme-architect
+asciidoc: {}
+asciidoctor: {}
