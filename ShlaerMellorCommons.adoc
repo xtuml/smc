@@ -1,0 +1,268 @@
+= Shlaer-Mellor Commons
+
+== 1 Abstract
+
+Shlaer-Mellor practitioners from all parts are converging and
+organizing into a community of practice.  This document explores
+requirements for governance of the __Shlaer-Mellor Commons__.
+
+== 2 Introduction and Background
+
+The Shlaer-Mellor community ('the community') emerged late in
+the previous century and was largely governed within the
+commercial world of service providers, trainers and
+license-based tool vendors. The community was fragmented,
+regionalized and sometimes internally competitive. As the
+software and systems engineering worlds have embraced open
+source software (OSS) and worldwide collaborative and
+distributed development, the influence of the commercial vendors
+has waned. Even so, the method has continued to succeed in teams
+on various continents.
+
+The availability of OSS tooling has increased during the last 10
+years. And a sequence of technical conferences focusing on the
+practice of Shlaer-Mellor modeling has been a catalyst to the
+convergence of the various practitioners and service providers.
+There is a groundswell within the community to collaborate and
+promote the application of Shlaer-Mellor modeling within the
+engineering development world.
+
+The time is right to formalize the relationships within the
+community under a clear governance of the __Shlaer-Mellor
+Commons__.
+
+
+== 3 Requirements
+
+=== 3.1 Mission
+
+The Shlaer-Mellor Commons exists to foster a community of
+collaboration, camaraderie and advocacy around the method,
+models and tooling.
+
+=== 3.2 Common Property
+
+The community is steward to the Shlaer-Mellor Commons. This
+commons is centered around tangible and intangible common
+property shared within the community and accessible to the
+world. The common property includes but is not limited to:
+
+* the Shlaer-Mellor Method as documented in books, reports and
+  as implemented in various tooling repositories of open source
+  software (OSS) and documentation
+* model editors, compilers and runtime environments
+* repositories of models: application domains, examples, tests
+* website content
+* conference proceedings
+* training materials, videos
+* communication media: chats, forums, email lists
+* references to support and services from experts and service companies
+
+See <<dr-2>> for an issue used to accumulate a list of common property.
+
+=== 3.3 Roles and Leadership
+
+Teams within the community provide focus on specialized aspects
+of Shlaer-Mellor activities.  The community has been recruited
+and the Commons initiated by a Community Steward.  The team structure is
+initially fluid, however a structure is emerging.  Three teams
+provide focus on the methodology (OOA Team), tooling (RD team)
+and the community itself (Community Team).  Each team has a
+leader/facilitator and is organized within itself.
+
+more TBD
+
+=== 3.4 Rules
+
+The community is governed as a meritocracy.
+
+respect, manners, etc.
+
+TBD
+
+== 4 Vision
+
+As stated above, the Shlaer-Mellor Commons exists to foster a community of
+collaboration, camaraderie and advocacy around the method, models and
+tooling.  The vision for the future involves increasing the effectiveness
+of the *collaboration*, *camaraderie* and *advocacy*.
+
+=== 4.1 Collaboration
+
+A key goal is to find and connect Shlaer-Mellor modelers from all corners.
+The Commons community will be the easiest, most efficient and enjoyable
+means of collaborating with fellow modelers.  Existing and new practitoners
+will find the people they need and the tools to work together.
+
+When people search for 'Shlaer-Mellor', 'xUML/xtUML', 'executable
+modeling' or 'modeling and translation', they will find the Shlaer-Mellor
+Commons.  They will find colleagues.  They will find tools to engage with
+these colleagues efficiently and pleasantly.
+
+Since the Commons is largely an Open Source Software collaboration, users
+will find all of the tools and ways of working expected for open source
+projects.  They will find issue trackers, source code repositories and
+commmunication channels that are best present practices in the online
+engineering development world.
+
+=== 4.2 Camaraderie
+
+Shlaer-Mellor Commons members are a distinct group with distinct
+interests.  Shlaer-Mellor people share some ways of thinking and enjoy
+sharing time with others who value precise modeling, execution and
+translation.  People will find opportunities to enjoy time together
+through online communications channels, work opportunities, conferences,
+training materials and articles of interest.
+
+Conferences and physical gatherings will be arranged and promoted through
+the Commons communication channels giving members the opportunity to enjoy
+working and relaxing together.
+
+=== 4.3 Advocacy
+
+The Shlaer-Mellor Commons promotes a particular process of systems
+analysis and design, because it is seen to be effective and even a Better
+Way in many situations.  Therefore, practitioners desire to see the
+community grow and see the Method applied more widely.  Members of the
+Shlaer-Mellor Commons promote involvement and growth.
+
+=== 4.4 Visionary Crystal Ball
+
+So, with the above stated, what might this look like?
+
+. coalescence of the various Shlaer-Mellor related groups (PT, KC, MI/R,
+  xtUML, xUML, OOA, etc.) linked from the more general Shlaer-Mellor Commons
+. continuous, incremental refinement of the Method by an OOA Council
+. an easy-to-read map of the various dialects and literature describing them
+. an easy-to-read map of the available tooling with features and user
+  bases described to help choose a modeling tool to use (or to help develop)
+. shlaermellor.org as a landing site with links to the collaboration
+  utilities
+. a _Slack_ chat with rooms and threads for the various interest groups
+. more material accessible without the need to register user IDs on
+  multiple sites
+. textual as well as graphical modeling tools
+. text to graphics and graphics to text conversions
+. more and better model compilers
+. more and better model execution and debug environments
+. a base Shlaer-Mellor metamodel with paths to derive and extend it
+. a growing annual online conference
+. physical gatherings each year on at least 4 continents
+. an organized and growing base of teaching and training materials
+. representation in related activities like ET-Robocon and other modeling
+  contests
+
+== 5 Roadmap
+
+The roadmap is simply the realization of the vision.  With a roadmap, the
+vision can be "project managed" into reality a step at a time.  While it
+is nice to have a grand vision, it is also wise to be realistic in terms
+of involvement in voluntary activities like the Commons.  Therefore, with
+a vision, a roadmap and modest expectations, the Shlaer-Mellor community
+can celebrate incremental steps along the roadmap.
+
+== 6 Participation
+
+The Shlaer-Mellor Commons is composed of shared property as outlined
+above.  This property is largely Open Source Software (OSS) and
+documentation.  Thus, material participation is accomplished in the "Open
+Source Way".  The Commons attempts to utilize best practices established
+by other successful communities and bodies of shared IP.  Projects such as
+Linux, Apache and WordPress have sustainably engaged users, developers and
+advocates over the years.
+
+Central to open source projects are the following:  issue tracking, source
+code management and communication channels.  Participation in the
+community means connecting through the currently established issue
+trackers, source code repositories and communication channels.  Thus, the
+first step for any participant is to mechanically connect to these three
+fundamental elements.
+
+The mechanics of this participation infrastructure will start with
+available resources and grow and improve over time according to the
+Roadmap.
+
+=== 6.1 Issue Tracking
+
+Successful open source projects track issues.  An issue can be a question,
+bug report or feature request.  What is critical is that issues are
+captured, identified and progressed through a lifecycle.  This will look
+like engineering development.
+
+<<dr-3>> is a link to the initial issue tracker being used by the
+Shlaer-Mellor Commons.  To use the tracker, it is necessary to register a
+user ID.
+
+=== 6.2 Source Management
+
+Open source projects maintain repositories of source code and
+documentation in version control systems.  These repositories enable
+changes and additions to be made to the body of knowledge incrementally,
+methodically and safely.  Changes in the source body are linked to
+issues in the issue tracker.
+
+The Shlaer-Mellor Commons manages a composition of source code
+repositories associated with the various sources of tooling and
+documentation.  Google Docs and git repositories will be common for the
+foreseeable future.  Other collaboration environments are likely to be
+added.
+
+Active and successful participants will become comfortable collaborating
+on shared documents which are version controlled.  Participants involved
+in source code (models and tooling) will become comfortable forking,
+branching, merging and submitting pull requests to these various source
+repositories.
+
+<<dr-4>> is a link to the xtuml source repositories on GitHub.
+
+=== 6.3 Communication Channels
+
+Communication is the foundation of community.  The Shlaer-Mellor Commons
+is an online community and uses internet-based communication channels
+such as email, chat rooms and social media.  Successful participants will
+join the various channels.  These channels and their appropriate use is
+constantly evolving along with rest of the internet culture.  The Linux
+community started in a Usenet newsgroup and has migrated and adapted as
+different media became available and popularized.  The S-M Commons will do
+the same.
+
+=== 6.4 Participant HOWTO
+
+. Connect to the issue tracker.
+. Connect to the Google Docs folders and git repositories.
+. Get on the email list and chat channels.
+
+Ask how you can help.  Someone will put meaningful work onto your ToDo
+list!
+
+== 7 Document References
+
+. [[dr-1]] https://support.onefact.net/issues/12204[12204 - S-M Commons Governance]
+. [[dr-2]] https://support.onefact.net/issues/12205[12205 - S-M Commons Common Property]
+. [[dr-3]] https://support.onefact.net/[Redmine Issue Tracker]
+. [[dr-4]] https://github.com/xtuml[xtUML Source Repository]
+
+---
+
+This work is licensed under the Creative Commons CC0 License
+
+---
+
+
+
+On 2 of the 3 issues at hand, I believe the PT position also captures the
+initial OOA as regards event prioritization and polymorphic events (OOA
+96).  WRT association formalization, I would need to research a bit
+further.  My sense is that the original OOA assumed that associations were
+formalized as a matter of course.  I doubt I will find the word
+'mandatory' or 'optional', but I will look.  All known tooling required
+formalization perhaps for a variety of non-Method issues.
+
+WRT event polymorphism, we do have a syntactic and semantic divergence
+that I am keen to learn the origins of and discuss the recommendations
+going forward.  Colin has suggested a fairly practical Way Forward, and I
+will probably agree.  However, I will enjoy learning:
+
+1) How did we manage to get these 2 different interpretations?
+2) Is one of the interpretations more correct?  (true to what Stephen and Sally had in mind)
+3) Is one of the interpretations better?  (more powerful and generally useful)

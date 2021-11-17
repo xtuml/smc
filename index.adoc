@@ -1,3 +1,8 @@
 = Shlaer-Mellor Commons
 
-This is a test
+Welcome to the Shlaer-Mellor Commons information portal.
+
+.Shlaer-Mellor Commons
+image::smc.png[Shlaer-Mellor Commons logo,width=25%]
+
+Read about the link:../8073_masl_parser/8277_serial_masl_spec.md[Shlaer-Mellor Commons Mission Statement].
