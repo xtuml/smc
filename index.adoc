@@ -5,4 +5,5 @@ Welcome to the Shlaer-Mellor Commons information portal.
 .Shlaer-Mellor Commons
 image::smc.png[Shlaer-Mellor Commons logo,width=50%]
 
-Read about the link:ShlaerMellorCommons.adoc[Shlaer-Mellor Commons Mission Statement].
+Read about the
+include::ShlaerMellorCommons.adoc[Shlaer-Mellor Commons Mission Statement].
