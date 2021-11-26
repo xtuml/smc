@@ -1,5 +1,7 @@
 repository: xtuml/smc
 baseurl: '/smc'
+header_pages:
+ - README.adoc
 theme: minima
 asciidoc: {}
 asciidoctor: {}
