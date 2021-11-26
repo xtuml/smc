@@ -2,8 +2,19 @@
 
 Welcome to the Shlaer-Mellor Commons information portal.
 
-.Shlaer-Mellor Commons
-image::smc.png[Shlaer-Mellor Commons logo,width=50%]
+image::smc1.png[Shlaer-Mellor Commons]
 
-Read about the
-include::ShlaerMellorCommons.adoc[Shlaer-Mellor Commons Mission Statement].
+image::smc2.png[Shlaer-Mellor Commons]
+
+image::smc3.png[Shlaer-Mellor Commons]
+
+image::smc4.png[Shlaer-Mellor Commons]
+
+For more information:
+
+* https://abstractsolutions.co.uk/[Abstract Solutions]
+* https://mailetechnical.com/[maile TECHNICAL]
+* http://modelcompilers.com/[Model Compilers LLC]
+* https://modelint.com/[Model Integration LLC]
+* https://onefact.net/[One Fact Inc]
+* https://xtuml.org/[xtUML.org]
