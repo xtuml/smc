@@ -1,5 +1,5 @@
 repository: xtuml/smc
 baseurl: '/smc'
-theme: jekyll-theme-minima
+theme: minima
 asciidoc: {}
 asciidoctor: {}
